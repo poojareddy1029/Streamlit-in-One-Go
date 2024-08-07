@@ -1,1 +1,1 @@
-Streamlit   -    1.37.0
+Streamlit == 1.37.0
